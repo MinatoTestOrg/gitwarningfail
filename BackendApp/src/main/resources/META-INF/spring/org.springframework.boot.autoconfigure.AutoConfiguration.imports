@@ -1,0 +1,3 @@
+com.minatoorgtestcase.gitwarningfail.config.ApplicationRepositoriesAutoConfiguration
+com.minatoorgtestcase.gitwarningfail.config.ApplicationTransactionManagersAutoConfig
+com.minatoorgtestcase.gitwarningfail.config.ApplicationProvidersAutoConfiguration

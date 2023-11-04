@@ -1,0 +1,36 @@
+{
+  "left" : [ {
+    "pathsInvolved" : [ ],
+    "accessControl" : [ "all" ],
+    "infiniteScroll" : false,
+    "label" : "Menu",
+    "element" : "menuItem"
+  }, {
+    "pathsInvolved" : [ "/applicationuser/applicationuserdetail", "/applicationuser/applicationuserlist" ],
+    "accessControl" : [ "all" ],
+    "onClick" : "navigate_to_page",
+    "infiniteScroll" : false,
+    "page" : {
+      "sid" : "795e9bc3-ee0b-4a01-933c-88aced17be8a",
+      "name" : "Application Users",
+      "url" : "/applicationuser/applicationuserlist"
+    },
+    "label" : "Application User",
+    "element" : "menuItem"
+  } ],
+  "topBarLeft" : [ ],
+  "topBarMiddle" : [ ],
+  "topBarRight" : [ {
+    "pathsInvolved" : [ ],
+    "languages" : [ {
+      "code" : "en",
+      "name" : "English"
+    } ],
+    "element" : "language"
+  }, {
+    "pathsInvolved" : [ ],
+    "element" : "logout"
+  } ],
+  "right" : [ ],
+  "tabs" : [ ]
+}
